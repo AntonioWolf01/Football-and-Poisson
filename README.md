@@ -1,5 +1,5 @@
 # Leveraging Poisson Distribution and xG to Predict Scores in Football Matches
-In this project, I aim to utilize **statistical techniques in R** to predict goal outcomes in _Serie A_ matches during the _2023/2024_ season.\n 
+In this project, I aim to utilize **statistical techniques in R** to predict goal outcomes in _Serie A_ matches during the _2023/2024_ season. 
 
 Focusing on _**xG**_ and _**xGA**_ (_Expected Goals_ and _Expected Goals Against)_, here is the theory behind those two concepts: 
 
