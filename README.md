@@ -10,7 +10,7 @@ I plan to assume these metrics follow a _Poisson distribution_. By leveraging te
 Through statistical analysis, I will compute team-specific metrics reflecting offensive and defensive strength scores, forming the basis for **goal-scoring predictions**. These metrics will be **visualized** using **heatmaps**, providing an intuitive representation of the potential goals scored in a match. 
 
 
-This project aims to propose a **basic model** that can serve as a basis for an objective analysis of a match, using a** more precise metric** compared to goals scored and conceded or shots taken as a foundation. Considering its ability to combine **simplicity** and **precision**, I believe it can provide an interesting **starting** **point** for various markets such as:
+This project aims to propose a **basic model** that can serve as a basis for an objective analysis of a match, using a **more precise metric** compared to goals scored and conceded or shots taken as a foundation. Considering its ability to combine **simplicity** and **precision**, I believe it can provide an interesting **starting** **point** for various markets such as:
 
 
 * **Broadcasting and Media Analytics**: media companies covering Serie A matches could use these predictions to enhance pre-match analysis, engaging audiences with insights into potential goal outcomes.
